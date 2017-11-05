@@ -1,0 +1,2 @@
+# UseOfInterface
+C# Interface Example 
