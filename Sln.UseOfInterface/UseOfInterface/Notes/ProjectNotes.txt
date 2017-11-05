@@ -1,0 +1,26 @@
+﻿
+
+The main benefit is about code readability, code maintainability and code "semantics".
+
+
+The main benefits of interfaces is mostly related to project design.
+
+If you use an interface:
+
+The consumer of the interface should implement that interface.
+Designing bridge patters.
+Creating a contract so that user must adhere the rules of the interface.
+Can take only interface part (Object) from the main class.
+Even class is private, can obtain the interface object from that
+Multiple inheritance kind of style.
+Need not be should implement, simple go for if implements that means if you want you can implement other wise can drop it..
+Cleaner code.
+Implementation which changes depends on class can go ahead with interface.
+If each class have separate implementation of a method better to go for interfaces. For example IEnumerable in collections.
+
+
+According to C# Architect, in a simple word it's a contract. 
+Consumer must adhere to it.
+
+
+
